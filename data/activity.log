@@ -73,3 +73,4 @@
 [2026-01-08T14:59:23.000Z] style: enforce consistent lint formatting across modules (#4/7)
 [2026-01-08T16:33:30.000Z] refactor: decouple configuration loader from runtime core (#5/7)
 [2026-01-08T17:56:52.000Z] refactor: streamline data pipeline transformation logic (#6/7)
+[2026-01-08T19:27:10.000Z] chore: clean up deprecated helper functions (#7/7)
