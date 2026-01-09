@@ -77,3 +77,4 @@
 [2026-01-09T10:29:53.000Z] perf: debounce high-frequency state update dispatchers (#1/7)
 [2026-01-09T12:03:35.000Z] refactor: modularize repository sync orchestrator (#2/7)
 [2026-01-09T13:32:42.000Z] fix: graceful fallback on upstream rate limiting (#3/7)
+[2026-01-09T15:01:14.000Z] docs: clarify deployment environment variable requirements (#4/7)
