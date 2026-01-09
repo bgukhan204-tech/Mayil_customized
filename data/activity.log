@@ -79,3 +79,4 @@
 [2026-01-09T13:32:42.000Z] fix: graceful fallback on upstream rate limiting (#3/7)
 [2026-01-09T15:01:14.000Z] docs: clarify deployment environment variable requirements (#4/7)
 [2026-01-09T16:32:59.000Z] feat: implement adaptive caching layer for remote sync (#5/7)
+[2026-01-09T17:56:01.000Z] docs: add visual sequence diagrams for authentication flow (#6/7)
