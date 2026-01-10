@@ -83,3 +83,4 @@
 [2026-01-09T19:30:56.000Z] feat: implement adaptive caching layer for remote sync (#7/7)
 [2026-01-10T10:41:33.000Z] chore: bump minor dependency patches and lockfile (#1/6)
 [2026-01-10T12:24:31.000Z] test: add unit coverage for edge-case parser states (#2/6)
+[2026-01-10T14:05:36.000Z] docs: clarify deployment environment variable requirements (#3/6)
