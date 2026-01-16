@@ -107,3 +107,4 @@
 [2026-01-15T15:01:55.000Z] feat: add structured JSON log formatter (#2/3)
 [2026-01-15T18:03:41.000Z] chore: bump minor dependency patches and lockfile (#3/3)
 [2026-01-16T10:39:28.000Z] refactor: decouple configuration loader from runtime core (#1/6)
+[2026-01-16T12:26:08.000Z] perf: reduce memory allocation in matrix computation (#2/6)
