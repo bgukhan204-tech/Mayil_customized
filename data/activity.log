@@ -170,3 +170,4 @@
 [2026-01-26T14:58:22.000Z] test: add unit coverage for edge-case parser states (#4/7)
 [2026-01-26T16:31:48.000Z] test: add unit coverage for edge-case parser states (#5/7)
 [2026-01-26T18:00:25.000Z] feat: optimize event bus telemetry and trace logging (#6/7)
+[2026-01-26T19:29:59.000Z] docs: clarify deployment environment variable requirements (#7/7)
