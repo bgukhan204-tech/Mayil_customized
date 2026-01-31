@@ -190,3 +190,4 @@
 [2026-01-30T16:33:33.000Z] feat: implement adaptive caching layer for remote sync (#5/7)
 [2026-01-30T18:03:56.000Z] fix: resolve timezone offset discrepancy in scheduler (#6/7)
 [2026-01-30T19:33:50.000Z] test: expand integration suite for webhook deliveries (#7/7)
+[2026-01-31T11:57:59.000Z] fix: resolve timezone offset discrepancy in scheduler (#1/3)
