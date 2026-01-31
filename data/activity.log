@@ -192,3 +192,4 @@
 [2026-01-30T19:33:50.000Z] test: expand integration suite for webhook deliveries (#7/7)
 [2026-01-31T11:57:59.000Z] fix: resolve timezone offset discrepancy in scheduler (#1/3)
 [2026-01-31T15:00:27.000Z] perf: index query key lookup table for O(1) retrieval (#2/3)
+[2026-01-31T18:02:23.000Z] docs: add visual sequence diagrams for authentication flow (#3/3)
