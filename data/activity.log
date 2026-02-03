@@ -202,3 +202,4 @@
 [2026-02-02T14:59:09.000Z] feat: implement adaptive caching layer for remote sync (#2/3)
 [2026-02-02T18:03:03.000Z] docs: update API contract and endpoint specifications (#3/3)
 [2026-02-03T11:25:49.000Z] chore: clean up deprecated helper functions (#1/4)
+[2026-02-03T13:51:32.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/4)
