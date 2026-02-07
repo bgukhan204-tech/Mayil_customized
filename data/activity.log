@@ -223,3 +223,4 @@
 [2026-02-07T14:56:21.000Z] feat: implement adaptive caching layer for remote sync (#4/7)
 [2026-02-07T16:31:11.000Z] chore: bump minor dependency patches and lockfile (#5/7)
 [2026-02-07T18:03:41.000Z] perf: reduce memory allocation in matrix computation (#6/7)
+[2026-02-07T19:28:33.000Z] chore: clean up deprecated helper functions (#7/7)
