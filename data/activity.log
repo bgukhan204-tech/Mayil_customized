@@ -225,3 +225,4 @@
 [2026-02-07T18:03:41.000Z] perf: reduce memory allocation in matrix computation (#6/7)
 [2026-02-07T19:28:33.000Z] chore: clean up deprecated helper functions (#7/7)
 [2026-02-08T10:29:22.000Z] docs: clarify deployment environment variable requirements (#1/7)
+[2026-02-08T12:02:50.000Z] perf: debounce high-frequency state update dispatchers (#2/7)
