@@ -251,3 +251,4 @@
 [2026-02-12T10:32:42.000Z] feat: implement adaptive caching layer for remote sync (#1/7)
 [2026-02-12T12:03:32.000Z] refactor: extract reusable validator utility methods (#2/7)
 [2026-02-12T13:27:53.000Z] style: enforce consistent lint formatting across modules (#3/7)
+[2026-02-12T14:56:58.000Z] docs: clarify deployment environment variable requirements (#4/7)
