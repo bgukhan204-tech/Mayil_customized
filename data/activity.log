@@ -267,3 +267,4 @@
 [2026-02-14T18:01:01.000Z] refactor: modularize repository sync orchestrator (#6/7)
 [2026-02-14T19:29:03.000Z] refactor: modularize repository sync orchestrator (#7/7)
 [2026-02-15T11:01:41.000Z] fix: prevent race condition in async buffer queue (#1/5)
+[2026-02-15T12:57:53.000Z] refactor: decouple configuration loader from runtime core (#2/5)
