@@ -1,3 +1,4 @@
 [2026-10-01T10:31:42.000Z] docs: clarify deployment environment variable requirements (#1/7)
 [2026-10-01T12:00:10.000Z] test: expand integration suite for webhook deliveries (#2/7)
 [2026-10-01T13:31:46.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/7)
+[2026-10-01T14:56:41.000Z] feat: optimize event bus telemetry and trace logging (#4/7)
